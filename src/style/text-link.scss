@@ -1,0 +1,11 @@
+.text-link {
+    font-size: 1.4rem;
+    line-height: 1.7rem;
+    text-decoration: none;
+    margin: 0 38px;
+    color: inherit;
+
+    &:visited {
+        color: inherit;
+    }
+}
